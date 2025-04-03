@@ -1,0 +1,12 @@
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\bin\Debug\net8.0\PDFUtilities.deps.json
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\bin\Debug\net8.0\PDFUtilities.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\bin\Debug\net8.0\PDFUtilities.pdb
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\refint\PDFUtilities.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\PDFUtilities.pdb
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PDFUtilities\obj\Debug\net8.0\ref\PDFUtilities.dll

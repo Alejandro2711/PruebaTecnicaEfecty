@@ -1,0 +1,19 @@
+﻿using PruebaTecnica.Domain.Common.ResultModels;
+using PruebaTecnica.Domain.Entities.Parametrizacion;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PruebaTecnica.Services.Interfaces.Parametrizacion
+{
+    public interface IParametroGeneralService
+    {
+        public Task<Result<long>> InsertarInfoParametroGeneral(ParametroGeneral parametroGeneral);
+        public Task<IEnumerable<ParametroGeneral>> ConsultarParametrosGenerales();
+        public Task<ParametroGeneral> ConsultarParametroGeneralById(long id);
+        public Task<bool> EliminarParametroGeneral(long id);
+        public Task<bool> EliminarParametroDetallado(long id);
+    }
+}

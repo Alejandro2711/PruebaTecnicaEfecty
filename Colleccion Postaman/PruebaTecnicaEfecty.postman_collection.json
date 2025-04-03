@@ -1,0 +1,73 @@
+{
+	"info": {
+		"_postman_id": "e6611bf6-57b6-426d-8274-419dcd0c1a3b",
+		"name": "PruebaTecnicaEfecty",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "13188854"
+	},
+	"item": [
+		{
+			"name": "Consultar Estado Civil",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7110/api/Prueba/consultarEstadocivil",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7110",
+					"path": [
+						"api",
+						"Prueba",
+						"consultarEstadocivil"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Tipos de Documento",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7110/api/Prueba/consultarTiposDocumento",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7110",
+					"path": [
+						"api",
+						"Prueba",
+						"consultarTiposDocumento"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Consultar Pruebas",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7110/api/Prueba/consultarPruebas",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7110",
+					"path": [
+						"api",
+						"Prueba",
+						"consultarPruebas"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

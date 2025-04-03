@@ -1,0 +1,42 @@
+﻿@using System.Net.Http
+@using System.Net.Http.Json
+@using PruebaTecnica.Services.Interfaces.Auditoria
+@using PruebaTecnica.Services.Interfaces.Email
+@using PruebaTecnica.Services.Interfaces.Encrypt
+@using PruebaTecnica.Services.Interfaces.Perfilamiento
+@using PruebaTecnica.Web.Services.Authentication
+@using Microsoft.AspNetCore.Components.Authorization
+@using Microsoft.AspNetCore.Components.Forms
+@using Microsoft.AspNetCore.Components.Routing
+@using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage
+@using Microsoft.AspNetCore.Components.Web
+@using static Microsoft.AspNetCore.Components.Web.RenderMode
+@using Microsoft.AspNetCore.Components.Web.Virtualization
+@using Microsoft.JSInterop
+@using PruebaTecnica.Web
+@using PruebaTecnica.Web.Components
+@using PruebaTecnica.Web.Components.Shared
+@using Radzen.Blazor
+@using Radzen
+@using static PruebaTecnica.Web.Helpers.IJSRuntimeExtension
+@using static PruebaTecnica.Web.Helpers.NotiflixJSExtension
+@using PruebaTecnica.Web.Entities.Authorization
+@using PruebaTecnica.Web.Services
+@using PruebaTecnica.Domain.Common.ResultModels
+@using PruebaTecnica.Web.Entities.Authentication
+@using PruebaTecnica.Web.Utilidades
+@using PruebaTecnica.Domain.Common
+@using PruebaTecnica.Web.Helpers
+
+@inject IJSRuntime _jsRuntime
+@inject NavigationManager _navigationManager
+@inject IWebHostEnvironment env
+@inject AuthenticationStateProvider _authStateProvider
+@inject AuthService _authenticationService
+@inject IAuditoriaService _auditoriaService
+@inject IConfiguration _config
+@inject IEncryptService _encryptService
+@inject ProtectedSessionStorage _pSessionStorageService
+@inject ISessionService _sessionService
+@inject TooltipService _tooltipService
+@inject TooltipHelper _tooltipHelper

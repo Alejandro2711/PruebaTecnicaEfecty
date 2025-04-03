@@ -1,0 +1,17 @@
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Persistence.deps.json
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Persistence.runtimeconfig.json
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Persistence.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Persistence.pdb
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTe.F1F2937A.Up2Date
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\refint\PruebaTecnica.Persistence.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.pdb
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\ref\PruebaTecnica.Persistence.dll

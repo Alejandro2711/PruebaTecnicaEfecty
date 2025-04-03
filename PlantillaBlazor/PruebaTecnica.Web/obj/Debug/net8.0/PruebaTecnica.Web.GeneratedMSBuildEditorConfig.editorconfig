@@ -1,0 +1,179 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PruebaTecnica.Web
+build_property.RootNamespace = PruebaTecnica.Web
+build_property.ProjectDir = C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/404/Layout404.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcNDA0XExheW91dDQwNC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Firma/FirmaElectronicaLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRmlybWFcRmlybWFFbGVjdHJvbmljYUxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Login/LoginLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5cTG9naW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Main/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpblxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Otp/OTPLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcT3RwXE9UUExheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Sarlaft/SarlaftTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcU2FybGFmdFxTYXJsYWZ0VGVtcGxhdGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Autenticacion/OtpLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdXRlbnRpY2FjaW9uXE90cExvZ2luLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/OIDC.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPSURDLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Page404.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlNDA0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Parametrizacion/ConsultaPGeneral.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJhbWV0cml6YWNpb25cQ29uc3VsdGFQR2VuZXJhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Parametrizacion/DetallePGeneral.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJhbWV0cml6YWNpb25cRGV0YWxsZVBHZW5lcmFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Password/CambioContraseña.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXNzd29yZFxDYW1iaW9Db250cmFzZcOxYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Password/OtpCambioPass.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXNzd29yZFxPdHBDYW1iaW9QYXNzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Password/RecuperarContraseña.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXNzd29yZFxSZWN1cGVyYXJDb250cmFzZcOxYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Perfilamiento/ConsultaRoles.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJmaWxhbWllbnRvXENvbnN1bHRhUm9sZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Perfilamiento/ConsultaUsuarios.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJmaWxhbWllbnRvXENvbnN1bHRhVXN1YXJpb3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Perfilamiento/UserTracking.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXJmaWxhbWllbnRvXFVzZXJUcmFja2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/CurrencyInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcQ3VycmVuY3lJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/ModuleAuthorizationView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTW9kdWxlQXV0aG9yaXphdGlvblZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/OnlyNumbersInput.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcT25seU51bWJlcnNJbnB1dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/PageAuthorizationView.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcUGFnZUF1dGhvcml6YXRpb25WaWV3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_LoadingButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX0xvYWRpbmdCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_ModalAlt.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX01vZGFsQWx0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_ModalComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX01vZGFsQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_OTPScreen.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX09UUFNjcmVlbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_Page404.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX1BhZ2U0MDQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_ParametroDetallado.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX1BhcmFtZXRyb0RldGFsbGFkby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_PasswordField.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX1Bhc3N3b3JkRmllbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/AlertaDesconectado.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBbGVydGFEZXNjb25lY3RhZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-g35zp0gsln
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Layout/Main/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpblxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-weiybjj5m4
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c6v3y8rp3p
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_FirmaElectronica.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX0Zpcm1hRWxlY3Ryb25pY2EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-90vrsl6s35
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_FirmaElectronicaFirmante.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX0Zpcm1hRWxlY3Ryb25pY2FGaXJtYW50ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kh6z26d3cm
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_Loading.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX0xvYWRpbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mpwsob3evt
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_LoadingSpinner.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX0xvYWRpbmdTcGlubmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-ff3nqg48is
+
+[C:/Users/aleja/OneDrive/Documentos/Prueba Tecnica Efecty/PlantillaBlazor/PruebaTecnica.Web/Components/Shared/_Page403.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcX1BhZ2U0MDMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vq13rsz3ol

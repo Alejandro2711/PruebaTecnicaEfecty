@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "PruebaTecnica.Web.Controllers.AntiForgeryController",
+    "Method": "GetToken",
+    "RelativePath": "api/AntiForgery/token",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PruebaTecnica.Web.Controllers.InfoController",
+    "Method": "GetIpAddress",
+    "RelativePath": "api/Info/ipaddress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PruebaTecnica.Web.Controllers.InfoController",
+    "Method": "getClientInfo",
+    "RelativePath": "api/Info/sendClientInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "datosCliente",
+        "Type": "PruebaTecnica.Web.Entities.Client.DatosClienteModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
