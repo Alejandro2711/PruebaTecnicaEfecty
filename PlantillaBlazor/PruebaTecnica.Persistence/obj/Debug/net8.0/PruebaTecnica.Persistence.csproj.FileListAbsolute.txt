@@ -15,3 +15,4 @@ C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaT
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.pdb
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.genruntimeconfig.cache
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\ref\PruebaTecnica.Persistence.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Persistence\obj\Debug\net8.0\PruebaTecnica.Persistence.sourcelink.json

@@ -765,3 +765,31 @@ System.Text.Json.JsonException: A possible object cycle was detected. This can e
 2025-04-03 12:23:31.984 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
 2025-04-03 12:23:31.995 -05:00 [WRN] Unable to configure browser refresh script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
 2025-04-03 12:34:39.122 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2025-04-03 14:57:49.983 -05:00 [INF] Starting up the application
+2025-04-03 14:57:52.134 -05:00 [INF] Iniciando migración de base de datos
+2025-04-03 14:57:53.078 -05:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-04-03 14:57:53.714 -05:00 [INF] Migraciones pendientes por aplicar: 
+2025-04-03 14:57:54.335 -05:00 [INF] Tiene cambios en modelos pendientes: False
+2025-04-03 14:57:54.354 -05:00 [INF] Migraciones aplicadas a la fecha: 20250228143355_Init,
+20250403165117_AddPrueba
+2025-04-03 14:57:54.356 -05:00 [INF] Fin de migración de base de datos
+2025-04-03 14:57:54.592 -05:00 [INF] Start installing Hangfire SQL objects...
+2025-04-03 14:57:54.930 -05:00 [INF] Hangfire SQL objects installed.
+2025-04-03 14:57:55.233 -05:00 [INF] Inicio de tarea de eliminación de archivos
+2025-04-03 14:57:55.245 -05:00 [INF] Fin de tarea de eliminación de archivos
+2025-04-03 14:57:56.089 -05:00 [INF] Tarea de inactivación de usuarios realizada
+2025-04-03 14:57:56.385 -05:00 [INF] Starting Hangfire Server using job storage: 'SQL Server: localhost@DbPruebaTecnica'
+2025-04-03 14:57:56.389 -05:00 [INF] Using the following options for SQL Server job storage: Queue poll interval: 00:00:00.
+2025-04-03 14:57:56.392 -05:00 [INF] Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:05
+2025-04-03 14:57:56.523 -05:00 [INF] Server alejo:13416:748eb50b successfully announced in 90,4318 ms
+2025-04-03 14:57:56.529 -05:00 [INF] Server alejo:13416:748eb50b is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler...
+2025-04-03 14:57:56.559 -05:00 [INF] 1 servers were removed due to timeout
+2025-04-03 14:57:56.714 -05:00 [INF] Server alejo:13416:748eb50b all the dispatchers started
+2025-04-03 14:57:57.835 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2025-04-03 14:58:08.545 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2025-04-03 14:58:14.561 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.
+2025-04-03 14:58:45.318 -05:00 [WRN] Unable to configure Browser Link script injection on the response. This may have been caused by the response's Content-Encoding: '["br"]'. Consider disabling response compression.

@@ -17,3 +17,4 @@ C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaT
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Services\obj\Debug\net8.0\refint\PruebaTecnica.Services.dll
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Services\obj\Debug\net8.0\PruebaTecnica.Services.pdb
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Services\obj\Debug\net8.0\ref\PruebaTecnica.Services.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Services\obj\Debug\net8.0\PruebaTecnica.Services.sourcelink.json

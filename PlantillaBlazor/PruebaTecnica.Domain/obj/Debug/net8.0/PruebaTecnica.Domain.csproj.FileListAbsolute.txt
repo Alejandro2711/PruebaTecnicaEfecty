@@ -10,3 +10,4 @@ C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaT
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Domain\obj\Debug\net8.0\refint\PruebaTecnica.Domain.dll
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.pdb
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Domain\obj\Debug\net8.0\ref\PruebaTecnica.Domain.dll
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.sourcelink.json

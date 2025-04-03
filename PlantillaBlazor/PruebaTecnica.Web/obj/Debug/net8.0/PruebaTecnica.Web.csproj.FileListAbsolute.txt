@@ -239,3 +239,4 @@ C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaT
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web\obj\Debug\net8.0\PruebaTecnica.Web.genruntimeconfig.cache
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web\obj\Debug\net8.0\ref\PruebaTecnica.Web.dll
 C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web\bin\Debug\net8.0\Log\log-20250403.json
+C:\Users\aleja\OneDrive\Documentos\Prueba Tecnica Efecty\PlantillaBlazor\PruebaTecnica.Web\obj\Debug\net8.0\PruebaTecnica.Web.sourcelink.json

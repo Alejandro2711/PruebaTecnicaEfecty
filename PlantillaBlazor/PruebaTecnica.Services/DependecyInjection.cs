@@ -1,4 +1,5 @@
-﻿using Hangfire;
+﻿using FluentValidation;
+using Hangfire;
 using Hangfire.SqlServer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -21,6 +22,7 @@ using PruebaTecnica.Services.Interfaces.Otp;
 using PruebaTecnica.Services.Interfaces.Parametrizacion;
 using PruebaTecnica.Services.Interfaces.Perfilamiento;
 using PruebaTecnica.Services.Interfaces.Prueba;
+using PruebaTecnica.Services.Validators;
 
 namespace PruebaTecnica.Services
 {
@@ -119,6 +121,7 @@ namespace PruebaTecnica.Services
         private static IServiceCollection AddFluentValidation(this IServiceCollection services)
         {
 
+            services.AddValidatorsFromAssemblyContaining<PruebaValidator>();
 
             return services;
         }

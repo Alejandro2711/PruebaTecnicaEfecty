@@ -6,6 +6,7 @@
 @using PruebaTecnica.Domain.Entities.Prueba
 @using PruebaTecnica.Services.Interfaces.Parametrizacion
 @using PruebaTecnica.Services.Interfaces.Prueba
+@using Blazored.FluentValidation
 
 @inject IPruebaService _pruebaService;
 @inject IParametroGeneralService _parService;
@@ -41,42 +42,51 @@ else
                 </div>
                 <div class="card-body">
                     <p class="card-title-desc"></p>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label class="form-label">Nombre</label>
-                                <input type="text" class="form-control" @bind-value="_prueba.Nombre" />
+                    <EditForm Model="_prueba" OnValidSubmit="guardarPrueba">
+                        <FluentValidationValidator />
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Nombre</label>
+                                    <input type="text" class="form-control" @bind-value="_prueba.Nombre" />
+                                    <ValidationMessage class="text-validacion-error" For="() => _prueba.Nombre" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Apellidos</label>
+                                    <input type="text" class="form-control" @bind-value="_prueba.Apellidos" />
+                                    <ValidationMessage class="text-validacion-error" For="() => _prueba.Apellidos" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Fecha Nacimiento</label>
+                                    <input type="date" class="form-control" @bind-value="_prueba.FechaNacimiento" />
+                                    <ValidationMessage class="text-validacion-error" For="() => _prueba.FechaNacimiento" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Tipo Doucmento</label>
+                                    <RadzenDropDown @bind-Value=@_prueba.TipoDocumento TValue="long?" Data=@_tipodoc.ListaParametrosDetallados TextProperty="Nombre" ValueProperty="Id" />
+                                    <ValidationMessage class="text-validacion-error" For="() => _prueba.TipoDocumento" />
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Estado Civil</label>
+                                    <RadzenRadioButtonList Data="@_EstadoCivil.ListaParametrosDetallados" @bind-Value=@_prueba.EstadoCivil TValue="long?" TextProperty="Nombre" ValueProperty="Id">
+                                    </RadzenRadioButtonList>
+                                    <ValidationMessage class="text-validacion-error" For="() => _prueba.EstadoCivil" />
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label class="form-label">Apellidos</label>
-                                <input type="text" class="form-control" @bind-value="_prueba.Apellidos" />
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label class="form-label">Fecha Nacimiento</label>
-                                <input type="date" class="form-control" @bind-value="_prueba.FechaNacimiento" />
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label class="form-label">Tipo Doucmento</label>
-                                <RadzenDropDown @bind-Value=@_prueba.TipoDocumento TValue="long?" Data=@_tipodoc.ListaParametrosDetallados TextProperty="Nombre" ValueProperty="Id" />
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label class="form-label">Estado Civil</label>
-                                <RadzenRadioButtonList Data="@_EstadoCivil.ListaParametrosDetallados" @bind-Value=@_prueba.EstadoCivil TValue="long?" TextProperty="Nombre" ValueProperty="Id">
-                                </RadzenRadioButtonList>
-                            </div>
-                        </div>
-                    </div>
-                    <br>
-                    <br>
-                    <button class="btn btn-primary" type="button" @onclick="guardarPrueba">Guardar</button>
+                        <br>
+                        <br>
+
+                        <button class="btn btn-primary" type="submit">Guardar</button>
+                    </EditForm>
                 </div>
                 <!-- end card body -->
             </div>

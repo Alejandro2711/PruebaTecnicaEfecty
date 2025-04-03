@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\validators\\pruebavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\validators\\pruebavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\pruebatecnica.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\pruebatecnica.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\implementations\\prueba\\pruebaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.persistence\\data\\tablesconfigurations\\prueba\\pruebaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|solutionrelative:pruebatecnica.persistence\\data\\tablesconfigurations\\prueba\\pruebaconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8EA37D4-2B48-4F78-86F5-4928D49AD625}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.domain\\entities\\prueba\\pruebamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8EA37D4-2B48-4F78-86F5-4928D49AD625}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|solutionrelative:pruebatecnica.domain\\entities\\prueba\\pruebamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8EA37D4-2B48-4F78-86F5-4928D49AD625}|PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.domain\\pruebatecnica.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -87,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\components\\layout\\main\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\components\\pages\\parametrizacion\\consultapgeneral.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\components\\pages\\parametrizacion\\consultapgeneral.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -105,14 +113,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\implementations\\perfilamiento\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\implementations\\perfilamiento\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.services\\pruebatecnica.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B5A865AE-AC91-456A-851C-0414F8DBAD22}|PruebaTecnica.Services\\PruebaTecnica.Services.csproj|solutionrelative:pruebatecnica.services\\pruebatecnica.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.persistence\\repositories\\implementations\\perfilamiento\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,16 +151,16 @@
       "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\components\\pages\\password\\otpcambiopass.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.web\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{103062A2-FF7B-4417-A207-0EC0FB253472}|PruebaTecnica.Web\\PruebaTecnica.Web.csproj|solutionrelative:pruebatecnica.web\\dependecyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.persistence\\migrations\\20250228143355_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|solutionrelative:pruebatecnica.persistence\\migrations\\20250228143355_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.persistence\\migrations\\20250228143355_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|solutionrelative:pruebatecnica.persistence\\migrations\\20250228143355_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|c:\\users\\aleja\\onedrive\\documentos\\prueba tecnica efecty\\plantillablazor\\pruebatecnica.persistence\\migrations\\20250403165117_addprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43785049-ECA9-4A57-A66B-3F66039EB0C1}|PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj|solutionrelative:pruebatecnica.persistence\\migrations\\20250403165117_addprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,367 +170,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IPruebaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:16:17.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DependecyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\DependecyInjection.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\DependecyInjection.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\DependecyInjection.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\DependecyInjection.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:15:08.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPruebaService.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
-              "RelativeToolTip": "PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:22:04.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PruebaService.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
-              "RelativeToolTip": "PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:21:49.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAADsAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:35:53.807Z",
+              "WhenOpened": "2025-04-03T19:55:30.581Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PruebaController.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\PruebaController.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\PruebaController.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\PruebaController.cs",
-              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\PruebaController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDEAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "PruebaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Validators\\PruebaValidator.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Validators\\PruebaValidator.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Validators\\PruebaValidator.cs",
+              "RelativeToolTip": "PruebaTecnica.Services\\Validators\\PruebaValidator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:01:15.993Z",
+              "WhenOpened": "2025-04-03T19:48:02.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\appsettings.json",
               "RelativeDocumentMoniker": "PruebaTecnica.Web\\appsettings.json",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\appsettings.json",
               "RelativeToolTip": "PruebaTecnica.Web\\appsettings.json",
-              "ViewState": "AgIAACwAAAAAAAAAAAAQwCsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-03T15:19:16.249Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PruebaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:16:30.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:17:00.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAQwDkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:15:15.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "PruebaConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:12:05.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PruebaModel.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Prueba\\PruebaModel.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\Prueba\\PruebaModel.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Prueba\\PruebaModel.cs",
-              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Prueba\\PruebaModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:07:31.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PruebaTecnica.Domain",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
-              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
-              "RelativeToolTip": "PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T16:06:31.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ParametroDetallado.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
-              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwB4AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:18:08.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ConsultaUsuarios.razor",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
-              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
-              "ViewState": "AgIAAEMBAAAAAAAAAAAAAEsBAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:30:44.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250403165117_AddPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:51:18.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PruebaTecnica.Web\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T17:13:18.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Login.razor",
-              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Login.razor",
-              "ViewState": "AgIAABoBAAAAAAAAAAAAAGkAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:16:38.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:00:41.426Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "PDetalladoConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAiwFYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:14:19.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
-              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAIwNoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:17:05.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:50:55.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DetallePGeneral.razor",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
-              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
-              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:05:05.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PGeneralConfig.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
-              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAiwCEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:14:18.899Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ConsultaPGeneral.razor",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
-              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T16:43:06.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
-              "RelativeToolTip": "PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:23:49.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 4,
               "Title": "DependecyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\DependecyInjection.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Services\\DependecyInjection.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\DependecyInjection.cs",
-              "RelativeToolTip": "PruebaTecnica.Services\\DependecyInjection.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAA5wGEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\DependecyInjection.cs",
+              "RelativeToolTip": "PruebaTecnica.Web\\DependecyInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:24:50.163Z",
+              "WhenOpened": "2025-04-03T15:14:00.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PruebaTecnica.Services",
+              "DocumentIndex": 3,
+              "Title": "PruebaTecnica.Services.csproj",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\PruebaTecnica.Services.csproj",
               "RelativeDocumentMoniker": "PruebaTecnica.Services\\PruebaTecnica.Services.csproj",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\PruebaTecnica.Services.csproj",
@@ -542,6 +239,295 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PruebaService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
+              "RelativeToolTip": "PruebaTecnica.Services\\Implementations\\Prueba\\PruebaService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:21:49.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Services\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\DependecyInjection.cs",
+              "RelativeToolTip": "PruebaTecnica.Services\\DependecyInjection.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAqwHsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:24:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:01:15.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPruebaService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
+              "RelativeToolTip": "PruebaTecnica.Services\\Interfaces\\Prueba\\IPruebaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:22:04.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependecyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\DependecyInjection.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\DependecyInjection.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\DependecyInjection.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\DependecyInjection.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:15:08.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPruebaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Prueba\\IPruebaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:16:17.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PruebaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Implementations\\Prueba\\PruebaRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA4AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:16:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Interfaces\\Perfilamiento\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:17:00.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:15:15.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PruebaConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Prueba\\PruebaConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:12:05.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PruebaTecnica.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
+              "RelativeToolTip": "PruebaTecnica.Domain\\PruebaTecnica.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T16:06:31.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParametroDetallado.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
+              "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Parametrizacion\\ParametroDetallado.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:18:08.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConsultaUsuarios.razor",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
+              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Perfilamiento\\ConsultaUsuarios.razor",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAAAEsBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:30:44.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250403165117_AddPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Migrations\\20250403165117_AddPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:51:18.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PruebaTecnica.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T17:13:18.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Login.razor",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAAGkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T15:16:38.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:00:41.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PDetalladoConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PDetalladoConfig.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAiwFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:14:19.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
+              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Layout\\Main\\MainLayout.razor",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAIwNoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T15:17:05.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PruebaTecnica.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:50:55.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetallePGeneral.razor",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
+              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\DetallePGeneral.razor",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:05:05.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PGeneralConfig.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
+              "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Parametrizacion\\PGeneralConfig.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:14:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConsultaPGeneral.razor",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
+              "RelativeDocumentMoniker": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
+              "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Parametrizacion\\ConsultaPGeneral.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:43:06.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
+              "RelativeToolTip": "PruebaTecnica.Services\\Implementations\\Perfilamiento\\UsuarioService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:23:49.201Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 28,
               "Title": "UsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Repositories\\Implementations\\Perfilamiento\\UsuarioRepository.cs",
@@ -550,21 +536,19 @@
               "RelativeToolTip": "PruebaTecnica.Persistence\\Repositories\\Implementations\\Perfilamiento\\UsuarioRepository.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAkwE4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:17:51.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:17:51.569Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "PruebaTecnica.Persistence",
+              "Title": "PruebaTecnica.Persistence.csproj",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj",
               "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj",
               "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj",
               "RelativeToolTip": "PruebaTecnica.Persistence\\PruebaTecnica.Persistence.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-03T16:11:28.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:11:28.731Z"
             },
             {
               "$type": "Document",
@@ -576,8 +560,7 @@
               "RelativeToolTip": "PruebaTecnica.Domain\\Entities\\Perfilamiento\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:11:08.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:11:08.119Z"
             },
             {
               "$type": "Document",
@@ -589,8 +572,7 @@
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Autenticacion\\OtpLogin.razor",
               "ViewState": "AgIAAH4AAAAAAAAAAAAqwIsAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:38:25.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:38:25.024Z"
             },
             {
               "$type": "Document",
@@ -602,8 +584,7 @@
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Page404.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:38:08.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:38:08.916Z"
             },
             {
               "$type": "Document",
@@ -615,8 +596,7 @@
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\OIDC.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:36:18.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:36:18.904Z"
             },
             {
               "$type": "Document",
@@ -628,8 +608,7 @@
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Pages\\Password\\OtpCambioPass.razor",
               "ViewState": "AgIAAJUAAAAAAAAAAAAqwKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:37:30.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:37:30.121Z"
             },
             {
               "$type": "Document",
@@ -641,12 +620,11 @@
               "RelativeToolTip": "PruebaTecnica.Web\\Components\\Layout\\Login\\LoginLayout.razor",
               "ViewState": "AgIAAFQAAAAAAAAAAAAiwGIAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-03T15:17:29.92Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:17:29.92Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "20250228143355_Init.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.cs",
               "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.cs",
@@ -654,21 +632,7 @@
               "RelativeToolTip": "PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.cs",
               "ViewState": "AgIAAPIGAAAAAAAAAAASwAYHAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:18:05.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "DependecyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\DependecyInjection.cs",
-              "RelativeDocumentMoniker": "PruebaTecnica.Web\\DependecyInjection.cs",
-              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Web\\DependecyInjection.cs",
-              "RelativeToolTip": "PruebaTecnica.Web\\DependecyInjection.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:14:00.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:18:05.437Z"
             },
             {
               "$type": "Document",
@@ -680,12 +644,11 @@
               "RelativeToolTip": "PruebaTecnica.Persistence\\Data\\TablesConfigurations\\Perfilamiento\\UsuarioConfig.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:18:33.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:18:33.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "20250228143355_Init.Designer.cs",
               "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Documentos\\Prueba Tecnica Efecty\\PlantillaBlazor\\PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.Designer.cs",
               "RelativeDocumentMoniker": "PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.Designer.cs",
@@ -693,8 +656,7 @@
               "RelativeToolTip": "PruebaTecnica.Persistence\\Migrations\\20250228143355_Init.Designer.cs",
               "ViewState": "AgIAAIkkAAAAAAAAAAASwJYkAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T15:18:48.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T15:18:48.537Z"
             }
           ]
         }
